@@ -5,5 +5,5 @@ Description of Logic behind the code
 -find the contour(largest enclosed area of pixle)
 -find the largest contour
 -draw rectangle around the contour[ you could just use moments to find the midpoint but i couldn't figure out how to do it]
--find the center of the rectangle (someone please tell me why it is 2X... how do you even maths, originally was just X, but 2X seems to fix the problem)
+-find the center of the rectangle 
 now you have the cooridinates for the line midpoint, just use that value to map it to the speed of your motor on your car or something
